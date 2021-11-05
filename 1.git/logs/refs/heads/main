@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 d41f846f28a516e8dd2dbaf1722434953f6770cf Rarus - Dev <63959199+rarusdev@users.noreply.github.com> 1636029946 +0500	commit (initial): first commit
+d41f846f28a516e8dd2dbaf1722434953f6770cf d41f846f28a516e8dd2dbaf1722434953f6770cf Rarus - Dev <63959199+rarusdev@users.noreply.github.com> 1636029954 +0500	Branch: renamed refs/heads/master to refs/heads/main
+d41f846f28a516e8dd2dbaf1722434953f6770cf 23790a6304d5c28b89846e0fc6f41294c1121415 Rarus - Dev <63959199+rarusdev@users.noreply.github.com> 1636030748 +0500	commit: Db creds changed
+23790a6304d5c28b89846e0fc6f41294c1121415 ce289f3636d4e51f2c9dea732150c4c40e7d1596 Rarus - Dev <63959199+rarusdev@users.noreply.github.com> 1636031019 +0500	commit: title changed
+ce289f3636d4e51f2c9dea732150c4c40e7d1596 081a6802165e80ea78ae227844f72704482a6b2a Rarus - Dev <63959199+rarusdev@users.noreply.github.com> 1636046001 +0500	commit: Changed DB creds

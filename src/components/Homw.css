@@ -1,0 +1,36 @@
+/* custom aos*/
+[data-aos="fade-out-custom"] {
+    -webkit-transition-property: -webkit-transform;
+    transition-property: -webkit-transform;
+    -o-transition-property: transform;
+    transition-property: transform;
+    transition-property: transform, -webkit-transform;
+  }
+  
+  @media screen and (min-width: 768px) {
+    [data-aos="fade-out-custom"] {
+      -webkit-transform: scale(10);
+          -ms-transform: scale(10);
+              transform: scale(10);
+    }
+    [data-aos="fade-out-custom"].aos-animate {
+      -webkit-transform: scale(1);
+          -ms-transform: scale(1);
+              transform: scale(1);
+    }
+  }
+  
+  body[data-aos-easing="new-easing"] [data-aos], [data-aos][data-aos][data-aos-easing="new-easing"] {
+    -webkit-transition-timing-function: cubic-bezier(0.16, 0.7, 0.67, 0.38);
+         -o-transition-timing-function: cubic-bezier(0.16, 0.7, 0.67, 0.38);
+            transition-timing-function: cubic-bezier(0.16, 0.7, 0.67, 0.38);
+  }
+  
+  [data-aos^="fade"][data-aos^="fade"] {
+    opacity: 0;
+    -webkit-transition-property: -webkit-transform;
+    transition-property: -webkit-transform;
+    -o-transition-property: transform;
+    transition-property: transform;
+    transition-property: transform, -webkit-transform;
+  }
