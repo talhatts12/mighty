@@ -71,7 +71,7 @@ class Home extends React.Component{
                         </div>
                         <div className="info-bar">
 			    <div className="utc-content">
-			    <p className="utc-text"><font color="white">Pre-sale: 21/11/21 at 1pm UTC - Public sale at 2am UTC</font></p></div>
+			    <p>Pre-sale: 21/11/21 at 1pm UTC - Public sale at 2am UTC</p></div>
                             <div className="inner info-bar__content">
                                 <p><br/>The NFT Jungle will never look the same again...</p>
                             </div>
@@ -169,7 +169,7 @@ class Home extends React.Component{
                                 <div className="team-member">
                                     <div className="team-member__inner">
                                         <h3 className="team-member__title">Developer</h3>
-                                        <img src="../images/developer.png" alt="Developer image" />
+                                        <img src="/images/developer.png" alt="Developer image" />
                                         <a href="#" className="team-member__url">THE WIZARD</a>
                                         <p><br/><br/>A veteran developer! What the wizard can do with code is truly magical. The Wizard has a Masters of Computer Science and 4 years of experience in Solidity. The Wizard works professionally in DeFi where staking contracts holding millions of dollars have been deployed.</p>
                                     </div>
