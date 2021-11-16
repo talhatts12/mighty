@@ -496,14 +496,14 @@ section {
 }
 
 .hero .image-btn .btn-wrap .button-ex-large {
-  width: 290px;
-  height: 100px;
+  width: 290px !important;
+  height: 100px !important;
   border: 4px solid #323232;
   display: inline-block;
   border-radius: 55px;
   font-style: normal;
   letter-spacing: 0.05em;
-  font-size: 30px;
+  font-size: 30px !important;
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Avenir", "Montserrat", sans-serif;
@@ -574,7 +574,7 @@ section {
 }
 
 .inc-dec-form form {
-  /*   width: 300px; */
+   
   width: 100%;
   margin: 0 auto;
   text-align: center;
@@ -596,8 +596,8 @@ section {
   display: inline-block;
   border: 1px solid #323232;
   margin: 0px;
-  min-width: 70px;
-  height: 66px;
+  min-width: 70px !important;
+  height: 66px !important;
   text-align: center;
   vertical-align: middle;
   padding: 0px 10px;
@@ -648,8 +648,8 @@ section {
   border-top: 1px solid #323232;
   border-bottom: 1px solid #323232;
   margin: 0px;
-  min-width: 70px;
-  height: 66px;
+  min-width: 70px !important;
+  height: 66px !important;
   width: 33.33%;
   font-size: inherit;
   background: transparent;
