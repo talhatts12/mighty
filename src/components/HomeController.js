@@ -171,7 +171,7 @@ class Home extends React.Component{
                                         <h3 className="team-member__title"><u>Developer</u></h3>
                                         <img src="../images/developer.png" alt="Developer image" />
                                         <a href="#" className="team-member__url">THE WIZARD</a>
-                                        <p style="text-align: center;"><br/><br/>A veteran developer! What the wizard can do with code is truly magical. The Wizard has a Masters of Computer Science and 4 years of experience in Solidity. The Wizard works professionally in DeFi where staking contracts holding millions of dollars have been deployed.</p>
+                                        <p><br/><br/>A veteran developer! What the wizard can do with code is truly magical. The Wizard has a Masters of Computer Science and 4 years of experience in Solidity. The Wizard works professionally in DeFi where staking contracts holding millions of dollars have been deployed.</p>
                                     </div>
                                 </div>
                             </div>
@@ -181,7 +181,7 @@ class Home extends React.Component{
                                         <h3 className="team-member__title"><u>The Artist</u></h3>
                                         <img src="/images/artist.png" alt="Artist image"/>
                                         <a href="#" className="team-member__url">Leonardo da Meerkat</a>
-                                        <p style="text-align: center;"><br/><br/>Our artist and their team have extensive experience is designing quality projects that have succeeded in the NFT space. Our artist has done an amazing job with our artwork designing a truly unique collection that proudly stands out from the crowd.</p>
+                                        <p><br/><br/>Our artist and their team have extensive experience is designing quality projects that have succeeded in the NFT space. Our artist has done an amazing job with our artwork designing a truly unique collection that proudly stands out from the crowd.</p>
                                     </div>
                                 </div>
                                 <div className="team-member">
@@ -189,7 +189,7 @@ class Home extends React.Component{
                                         <h3 className="team-member__title"><u>Head Mod</u></h3>
                                         <img src="/images/head-mod.png" alt="Head Mod image" />
                                         <a href="#" className="team-member__url">BZ#5932</a>
-                                        <p style="text-align: center;"><br/><br/>The personification of a top Aussie bloke! BZ has meerkat blood running through his veins! If you ever bump into him on discord ask him if he wants to hear a joke.</p>
+                                        <p><br/><br/>The personification of a top Aussie bloke! BZ has meerkat blood running through his veins! If you ever bump into him on discord ask him if he wants to hear a joke.</p>
                                     </div>
                                 </div>
                             </div>
@@ -202,26 +202,26 @@ class Home extends React.Component{
                             </h2>
                             <div className="faq">
                                 <h3 className="faq__title">What is minting?</h3>
-                                <p style="font-weight: 400;"> Minting is the process in which you can 'mint' any new NFT collection for the first time. This essentially means you will be the first recorded person on the blockchain to own that specific NFT.</p>
+                                <p> Minting is the process in which you can 'mint' any new NFT collection for the first time. This essentially means you will be the first recorded person on the blockchain to own that specific NFT.</p>
                                 <p>The action itself is a simple process. You must have the right amount of ETH in your wallet to cover the mint fee and 'gas fees'. You can mint directly from this website when the project has launched or send the correct amount of ETH to the NFT's “Smart Contract”. The Mighty Meerkat's smart contract is limited to 10,000 Meerkats!</p>
                             </div>
 			    <div className="faq">
                                 <h3 className="faq__title">How to mint a Mighty Meerkat NFT?</h3>
-                                <p style="font-weight: 400;">Anyone holding an early access pass will be able to mint up to 10 Meerkats at .1 each on Sunday 21/11/21 at 1pm UTC, they will have up until 1am UTC (12 hours) to mint.<u> Please use your one time access code that you will receive to access the website!</u> Then the collection will be available in a public sale at 2am UTC.</p>
+                                <p>Anyone holding an early access pass will be able to mint up to 10 Meerkats at .1 each on Sunday 21/11/21 at 1pm UTC, they will have up until 1am UTC (12 hours) to mint.<u> Please use your one time access code that you will receive to access the website!</u> Then the collection will be available in a public sale at 2am UTC.</p>
                             	<p>Your NFT can then be traded freely if you are the owner and only incurs Ethereum transaction fees (gas fees). However, the most common way to sell your NFT is through trusted marketplaces, such as OpenSea. OpenSea is the largest and most trusted marketplace in the NFT world! Please keep in mind trading on OpenSea involves additional fees for the seller.</p>
 			    </div>
                           
                            <div className="faq">
                                 <h3 className="faq__title">If I have missed the mint how can I purchase?</h3>
-                                <p style="font-weight: 400;">Please visit the OpenSea link that will be provided on this website to access the collection on the OpenSea marketplace. Once in OpenSea you can buy or sell NFTs from this collection.</p>
+                                <p>Please visit the OpenSea link that will be provided on this website to access the collection on the OpenSea marketplace. Once in OpenSea you can buy or sell NFTs from this collection.</p>
                             </div>
                             <div className="faq">
                                 <h3 className="faq__title">Why is the team contributing 100% of the mint to the DAO?</h3>
-                                <p style="font-weight: 400;">The team from the onset set out to build an amazing community project with long term goals and objectives. Royalty shares, of 2.5% from secondary sales, will provide the team with enough incentive to keep growing the project into the future!</p>
+                                <p>The team from the onset set out to build an amazing community project with long term goals and objectives. Royalty shares, of 2.5% from secondary sales, will provide the team with enough incentive to keep growing the project into the future!</p>
                             </div>
                             <div className="faq">
                                 <h3 className="faq__title">How do I contact someone for support or help?</h3>
-                                <p style="font-weight: 400;">Please visit our discord: <a href="https://discord.gg/mightymeerkats" target="_blank">https://discord.gg/mightymeerkats</a></p>
+                                <p>Please visit our discord: <a href="https://discord.gg/mightymeerkats" target="_blank">https://discord.gg/mightymeerkats</a></p>
                             </div>
                             <div className="faq-logo">
                                 <img src="/images/rgtrewgt.png" alt="Site Logo" />
@@ -236,7 +236,7 @@ class Home extends React.Component{
                     <div class="inner">
                         <div class="row">
                         <p class="disclamier">DISCLAIMER:</p>
-                                <p class="footertext" style="text-align: center;">
+                                <p class="footertext">
                                     Mighty Meerkats and the utility token $GRUBS is not an investment and has no economic value. Mighty Meerkat NFTs are exclusively and limited to being Non-Fungible Tokens for users to collect. There is no guarantee or promise that Mighty Meerkat NFTs hold any monetary value. Mighty Meerkats NFT does NOT distribute any form of royalty or dividend to its holders. Mighty Meerkats hereby grants you a worldwide, non-exclusive, personal, limited license, solely with respect to any Mighty Meerkat NFT(s) that you Own, to display the Artwork associated with such Mighty Meerkat NFT(s), privately or publicly, solely for personal, non-commercial purposes, including on social media platforms, digital galleries, or otherwise on the Internet or in association with your offer to sell or trade your Mighty Meerkat NFT(s). This license does not grant you any rights in or to the Artwork separate from the associated Mighty Meerkats NFT(s), only limited personal non-commercial use and resale rights in the NFT are granted and you have no right to license, commercially exploit, reproduce, distribute, prepare derivative works, or publicly perform. All copyright and other rights are reserved and not granted. You agree to waive any class action status and any legal dispute around the Mighty Meerkats NFT. You agree not to hold Mighty Meerkats NFT liable for any losses; including but not limited to any gas fees for failed transactions or any excessive gas fees during minting. You agree that Mighty Meerkats NFT will not be liable for any inability for you to access the Artwork for any reason, including as a result of any downtime, failure, obsolescence, removal, termination, or other disruption relating to (a) the servers upon which the Artwork is stored; (b) any Third-Party Vendor; or (c) any other NFT platform. You agree that you are over 18 years of age or the legal age required within your local jurisdiction. Your rights and remedies in the event of any legal action against Mighty Meerkats NFT or its creators are strictly limited to the right, if any, to recover damages in an action at law, and you acknowledge that your remedy of money damages is adequate. You will not be entitled by reason of any such breach, and you will not seek, any equitable relief, whether injunctive or otherwise. In the event of any legal dispute arising to Mighty Meerkats NFT you agree to only bring the case to a binding arbitration. You agree to be bound solely by the jurisdiction of the state of New South Wales, Australia. You agree that any legal proceedings you initiate can only be brought forward in  the jurisdiction of the state of New South Wales, Australia.
 					</p>
                         </div>
