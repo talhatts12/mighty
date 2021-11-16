@@ -203,7 +203,7 @@ header {
 @media screen and (min-width: 1025px) {
   header {
     height: auto;
-    position: fixed;
+     background-color:#FFD242;
   }
   header.nav-up {
     top: -300px;
