@@ -95,7 +95,7 @@ video {
 
 /* ====================== */
 /* = LAYOUT */
-/* ====================== */
+/* ============
 .inner {
   max-width: 980px;
   margin-left: auto;
@@ -496,14 +496,14 @@ section {
 }
 
 .hero .image-btn .btn-wrap .button-ex-large {
-  width: 490px;
-  height: 132px;
+  width: 290px;
+  height: 100px;
   border: 4px solid #323232;
   display: inline-block;
   border-radius: 55px;
   font-style: normal;
   letter-spacing: 0.05em;
-  font-size: 52px;
+  font-size: 30px;
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Avenir", "Montserrat", sans-serif;
@@ -558,7 +558,7 @@ section {
 /*==== Increase Decrease Button ====*/
 .inc-dec-form {
   width: 100%;
-  max-width: 490px;
+  max-width: 350px;
   text-align: center;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -597,7 +597,7 @@ section {
   border: 1px solid #323232;
   margin: 0px;
   min-width: 70px;
-  height: 132px;
+  height: 66px;
   text-align: center;
   vertical-align: middle;
   padding: 0px 10px;
@@ -649,7 +649,7 @@ section {
   border-bottom: 1px solid #323232;
   margin: 0px;
   min-width: 70px;
-  height: 132px;
+  height: 66px;
   width: 33.33%;
   font-size: inherit;
   background: transparent;
