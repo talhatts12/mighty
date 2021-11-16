@@ -11,7 +11,7 @@ class LoginControl extends React.Component {
       constructor(props) {
       super(props);
       this.handleLoginClick = this.handleLoginClick.bind(this);
-      this.state = {isLoggedIn: true, responseMessage:  true, msg: false};
+      this.state = {isLoggedIn: false, responseMessage:  true, msg: false};
     }
 
       
