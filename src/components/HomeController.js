@@ -140,6 +140,7 @@ class Home extends React.Component{
 					<li>Meerkat Manor is created with Metaverse ecosystem.</li>
 					<li>Treasure hunt launched.</li>
 					<li>Next stages to be announced.</li>
+					</ul>
                                 </div>
                             </div>
                         </div>
