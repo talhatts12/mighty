@@ -884,6 +884,7 @@ text-align:center;
   font-size: 16px;
   font-weight: 700;
   font-family: "Avenir", "Montserrat", sans-serif;
+	margin-top:-70px;
 }
 
 .button-primary:hover {
