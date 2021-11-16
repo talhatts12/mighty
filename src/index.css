@@ -1078,4 +1078,5 @@ button{
 
 .team-member__inner p, .team-member__inner ul {
   color: white;
+  text-align: left;
 }
