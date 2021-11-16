@@ -1080,3 +1080,14 @@ button{
   color: white;
   text-align: left;
 }
+
+
+#root {
+	overflow-x: hidden !important;
+	position: relative;
+}
+
+.menu-active .navigation {
+    flex-direction: row-reverse;
+    justify-content: end;
+}
