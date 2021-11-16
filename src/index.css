@@ -799,7 +799,10 @@ section {
   .team .team-member {
     width: 100%;
   }
+.team .member__text{
+text-align:center;
 
+}
 
 .team .team-member__title {
   color: #ffffff;
