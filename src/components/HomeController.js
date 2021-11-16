@@ -71,9 +71,9 @@ class Home extends React.Component{
                         </div>
                         <div className="info-bar">
 			    <div className="utc-content">
-			    <p className="utc-text"><font color="white">Pre-sale: 21/11/21 at 1pm UTC - Public sale at 2am UTC</font></p></div>
+			    <p className="utc-text" style="font-weight: 400;"><font color="white">Pre-sale: 21/11/21 at 1pm UTC - Public sale at 2am UTC</font></p></div>
                             <div className="inner info-bar__content">
-                                <p>The NFT Jungle will never look the same again...</p>
+                                <p><br/>The NFT Jungle will never look the same again...</p>
                             </div>
                         </div>
                     </section>
