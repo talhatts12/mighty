@@ -171,7 +171,7 @@ class Home extends React.Component{
                                         <h3 className="team-member__title">Developer</h3>
                                         <img src="/images/developer.png" alt="Developer image" />
                                         <a href="#" className="team-member__url">THE WIZARD</a>
-                                        <p className="member__text><br/><br/>A veteran developer! What the wizard can do with code is truly magical. The Wizard has a Masters of Computer Science and 4 years of experience in Solidity. The Wizard works professionally in DeFi where staking contracts holding millions of dollars have been deployed.</p>
+                                        <p className="member__text"><br/><br/>A veteran developer! What the wizard can do with code is truly magical. The Wizard has a Masters of Computer Science and 4 years of experience in Solidity. The Wizard works professionally in DeFi where staking contracts holding millions of dollars have been deployed.</p>
                                     </div>
                                 </div>
                             </div>
@@ -181,7 +181,7 @@ class Home extends React.Component{
                                         <h3 className="team-member__title">The Artist</h3>
                                         <img src="/images/artist.png" alt="Artist image"/>
                                         <a href="#" className="team-member__url">Leonardo da Meerkat</a>
-                                        <p className="member__text><br/><br/>Our artist and their team have extensive experience is designing quality projects that have succeeded in the NFT space. Our artist has done an amazing job with our artwork designing a truly unique collection that proudly stands out from the crowd.</p>
+                                        <p className="member__text"><br/><br/>Our artist and their team have extensive experience is designing quality projects that have succeeded in the NFT space. Our artist has done an amazing job with our artwork designing a truly unique collection that proudly stands out from the crowd.</p>
                                     </div>
                                 </div>
                                 <div className="team-member">
@@ -189,7 +189,7 @@ class Home extends React.Component{
                                         <h3 className="team-member__title">Head Mod</h3>
                                         <img src="/images/head-mod.png" alt="Head Mod image" />
                                         <a href="#" className="team-member__url">BZ#5932</a>
-                                        <p className="member__text><br/><br/>The personification of a top Aussie bloke! BZ has meerkat blood running through his veins! If you ever bump into him on discord ask him if he wants to hear a joke.</p>
+                                        <p className="member__text"><br/><br/>The personification of a top Aussie bloke! BZ has meerkat blood running through his veins! If you ever bump into him on discord ask him if he wants to hear a joke.</p>
                                     </div>
                                 </div>
                             </div>
