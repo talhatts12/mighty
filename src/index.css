@@ -831,6 +831,9 @@ section {
   font-family: "helvetica", "Lato", sans-serif;
   margin-bottom: 30px;
 }
+.faqs .faq__text {
+  font-weight: 400;
+}
 
 .faqs .faq a {
   color: inherit;
@@ -1060,6 +1063,7 @@ button{
     color: #ffffff;
     font-size: 18px;
     font-weight: 300;
+	text-align: center;
 }
 
 
