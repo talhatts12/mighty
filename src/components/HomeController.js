@@ -22,7 +22,7 @@ class Home extends React.Component{
                 <header className="main-header nav-down">
                     <div className="inner main-header__inner">
                         <div className="row">
-                            <div className="site-logo"><a href="index.html"><img src="/images/MIGHTYMEERKATS1.png" alt="Site Logo" /></a></div>
+                            <div className="site-logo"><a href="index.html"><img src="/images/mighty.png" alt="Site Logo" /></a></div>
                             <div className="navigation">
                                 <div id="nav-btn" className={`nav-btn ${this.state.menuToogle ? "open" : ""}`} onClick={this.handleSubmit}>
                                     <span></span>
@@ -52,7 +52,7 @@ class Home extends React.Component{
                         <div className="inner hero__inner">
                             <h2 className="section-title" data-aos="fade-out-custom" data-aos-easing="new-easing">THE BIGGEST DAO OF ALL <br/>TIME IS HERE!</h2>
                             <div className="image-btn">
-                                <img src="/images/Webp.net-gifmaker (2).gif" alt="fox-image"/>
+                                <img src="/images/webb.gif" alt="fox-image"/>
                                 <div className="btn-wrap">
                                     <a href="#" className="button button-ex-large">Mint</a>
                                 </div>
