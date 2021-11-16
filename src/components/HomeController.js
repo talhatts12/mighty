@@ -71,7 +71,7 @@ class Home extends React.Component{
                         </div>
                         <div className="info-bar">
 			    <div className="utc-content">
-			    <p className="utc-text" style="font-weight: 400;"><font color="white">Pre-sale: 21/11/21 at 1pm UTC - Public sale at 2am UTC</font></p></div>
+			    <p className="utc-text"><font color="white">Pre-sale: 21/11/21 at 1pm UTC - Public sale at 2am UTC</font></p></div>
                             <div className="inner info-bar__content">
                                 <p><br/>The NFT Jungle will never look the same again...</p>
                             </div>
@@ -151,7 +151,7 @@ class Home extends React.Component{
                             <div className="row">
                                 <div className="team-member">
                                     <div className="team-member__inner">
-                                        <h3 className="team-member__title"><u>Founder</u></h3>
+                                        <h3 className="team-member__title">Founder</h3>
                                         <img src="/images/founder.png" alt="founder image"/>
                                         <a href="#" className="team-member__url">@NFTEINSTEIN</a>
                                         <p><br/><br/>Hi everyone! I am the proud founder of Mighty Meerkats! You may know me as NFTEINSTEIN on Twitter or Mr Pickle from discord. The first question I often get asked is why do this project? My response is simple, why not! I have never in my life felt the power of community as strong as I have in the NFT space. What is happening in this space will go down in history as one of the biggest cultural movements. It would be my privilege to build something that gives back to the community that has given me so much. </p>
@@ -163,7 +163,7 @@ class Home extends React.Component{
     <li>I have extensive experience in building e-commerce businesses.
     </li>
     <li>I love building brands as much as I love NFTS!</li>
-</ul>s
+</ul>
                                     </div>
                                 </div>
                                 <div className="team-member">
