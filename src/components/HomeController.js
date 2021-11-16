@@ -202,8 +202,8 @@ class Home extends React.Component{
                             </h2>
                             <div className="faq">
                                 <h3 className="faq__title">What is minting?</h3>
-                                <p> Minting is the process in which you can 'mint' any new NFT collection for the first time. This essentially means you will be the first recorded person on the blockchain to own that specific NFT.</p>
-                                <p>The action itself is a simple process. You must have the right amount of ETH in your wallet to cover the mint fee and 'gas fees'. You can mint directly from this website when the project has launched or send the correct amount of ETH to the NFT's “Smart Contract”. The Mighty Meerkat's smart contract is limited to 10,000 Meerkats!</p>
+                                <p className="faq__text"> Minting is the process in which you can 'mint' any new NFT collection for the first time. This essentially means you will be the first recorded person on the blockchain to own that specific NFT.</p>
+                                <p className="faq__text">The action itself is a simple process. You must have the right amount of ETH in your wallet to cover the mint fee and 'gas fees'. You can mint directly from this website when the project has launched or send the correct amount of ETH to the NFT's “Smart Contract”. The Mighty Meerkat's smart contract is limited to 10,000 Meerkats!</p>
                             </div>
 			    <div className="faq">
                                 <h3 className="faq__title">How to mint a Mighty Meerkat NFT?</h3>
