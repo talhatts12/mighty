@@ -171,7 +171,7 @@ class Home extends React.Component{
                                         <h3 className="team-member__title">Developer</h3>
                                         <img src="/images/developer.png" alt="Developer image" />
                                         <a href="#" className="team-member__url">THE WIZARD</a>
-                                        <p><br/><br/>A veteran developer! What the wizard can do with code is truly magical. The Wizard has a Masters of Computer Science and 4 years of experience in Solidity. The Wizard works professionally in DeFi where staking contracts holding millions of dollars have been deployed.</p>
+                                        <p className="member__text><br/><br/>A veteran developer! What the wizard can do with code is truly magical. The Wizard has a Masters of Computer Science and 4 years of experience in Solidity. The Wizard works professionally in DeFi where staking contracts holding millions of dollars have been deployed.</p>
                                     </div>
                                 </div>
                             </div>
@@ -181,7 +181,7 @@ class Home extends React.Component{
                                         <h3 className="team-member__title">The Artist</h3>
                                         <img src="/images/artist.png" alt="Artist image"/>
                                         <a href="#" className="team-member__url">Leonardo da Meerkat</a>
-                                        <p><br/><br/>Our artist and their team have extensive experience is designing quality projects that have succeeded in the NFT space. Our artist has done an amazing job with our artwork designing a truly unique collection that proudly stands out from the crowd.</p>
+                                        <p className="member__text><br/><br/>Our artist and their team have extensive experience is designing quality projects that have succeeded in the NFT space. Our artist has done an amazing job with our artwork designing a truly unique collection that proudly stands out from the crowd.</p>
                                     </div>
                                 </div>
                                 <div className="team-member">
@@ -189,7 +189,7 @@ class Home extends React.Component{
                                         <h3 className="team-member__title">Head Mod</h3>
                                         <img src="/images/head-mod.png" alt="Head Mod image" />
                                         <a href="#" className="team-member__url">BZ#5932</a>
-                                        <p><br/><br/>The personification of a top Aussie bloke! BZ has meerkat blood running through his veins! If you ever bump into him on discord ask him if he wants to hear a joke.</p>
+                                        <p className="member__text><br/><br/>The personification of a top Aussie bloke! BZ has meerkat blood running through his veins! If you ever bump into him on discord ask him if he wants to hear a joke.</p>
                                     </div>
                                 </div>
                             </div>
@@ -207,21 +207,21 @@ class Home extends React.Component{
                             </div>
 			    <div className="faq">
                                 <h3 className="faq__title">How to mint a Mighty Meerkat NFT?</h3>
-                                <p>Anyone holding an early access pass will be able to mint up to 10 Meerkats at .1 each on Sunday 21/11/21 at 1pm UTC, they will have up until 1am UTC (12 hours) to mint.<u> Please use your one time access code that you will receive to access the website!</u> Then the collection will be available in a public sale at 2am UTC.</p>
-                            	<p>Your NFT can then be traded freely if you are the owner and only incurs Ethereum transaction fees (gas fees). However, the most common way to sell your NFT is through trusted marketplaces, such as OpenSea. OpenSea is the largest and most trusted marketplace in the NFT world! Please keep in mind trading on OpenSea involves additional fees for the seller.</p>
+                                <p className="faq__text">Anyone holding an early access pass will be able to mint up to 10 Meerkats at .1 each on Sunday 21/11/21 at 1pm UTC, they will have up until 1am UTC (12 hours) to mint.<u> Please use your one time access code that you will receive to access the website!</u> Then the collection will be available in a public sale at 2am UTC.</p>
+                            	<p className="faq__text">Your NFT can then be traded freely if you are the owner and only incurs Ethereum transaction fees (gas fees). However, the most common way to sell your NFT is through trusted marketplaces, such as OpenSea. OpenSea is the largest and most trusted marketplace in the NFT world! Please keep in mind trading on OpenSea involves additional fees for the seller.</p>
 			    </div>
                           
                            <div className="faq">
                                 <h3 className="faq__title">If I have missed the mint how can I purchase?</h3>
-                                <p>Please visit the OpenSea link that will be provided on this website to access the collection on the OpenSea marketplace. Once in OpenSea you can buy or sell NFTs from this collection.</p>
+                                <p className="faq__text">Please visit the OpenSea link that will be provided on this website to access the collection on the OpenSea marketplace. Once in OpenSea you can buy or sell NFTs from this collection.</p>
                             </div>
                             <div className="faq">
                                 <h3 className="faq__title">Why is the team contributing 100% of the mint to the DAO?</h3>
-                                <p>The team from the onset set out to build an amazing community project with long term goals and objectives. Royalty shares, of 2.5% from secondary sales, will provide the team with enough incentive to keep growing the project into the future!</p>
+                                <p className="faq__text">The team from the onset set out to build an amazing community project with long term goals and objectives. Royalty shares, of 2.5% from secondary sales, will provide the team with enough incentive to keep growing the project into the future!</p>
                             </div>
                             <div className="faq">
                                 <h3 className="faq__title">How do I contact someone for support or help?</h3>
-                                <p>Please visit our discord: <a href="https://discord.gg/mightymeerkats" target="_blank">https://discord.gg/mightymeerkats</a></p>
+                                <p className="faq__text">Please visit our discord: <a href="https://discord.gg/mightymeerkats" target="_blank">https://discord.gg/mightymeerkats</a></p>
                             </div>
                             <div className="faq-logo">
                                 <img src="/images/rgtrewgt.png" alt="Site Logo" />
