@@ -22,7 +22,7 @@ class Home extends React.Component{
                 <header className="main-header nav-down">
                     <div className="inner main-header__inner">
                         <div className="row">
-                            <div className="site-logo"><a href="index.html"><img src="/images/rgtrewgt.png" alt="Site Logo" /></a></div>
+                            <div className="site-logo"><a href="index.html"><img src="/images/MIGHTYMEERKATS1.png" alt="Site Logo" /></a></div>
                             <div className="navigation">
                                 <div id="nav-btn" className={`nav-btn ${this.state.menuToogle ? "open" : ""}`} onClick={this.handleSubmit}>
                                     <span></span>
@@ -52,7 +52,7 @@ class Home extends React.Component{
                         <div className="inner hero__inner">
                             <h2 className="section-title" data-aos="fade-out-custom" data-aos-easing="new-easing">THE BIGGEST DAO OF ALL <br/>TIME IS HERE!</h2>
                             <div className="image-btn">
-                                <img src="/images/gg1dd.png" alt="fox-image"/>
+                                <img src="/images/Webp.net-gifmaker (2).gif" alt="fox-image"/>
                                 <div className="btn-wrap">
                                     <a href="#" className="button button-ex-large">Mint</a>
                                 </div>
@@ -70,6 +70,8 @@ class Home extends React.Component{
                             </div>
                         </div>
                         <div className="info-bar">
+			    <div className="utc-content">
+			    <p>Pre-sale: 21/11/21 at 1pm UTC - Public sale at 2am UTC</p>
                             <div className="inner info-bar__content">
                                 <p>The NFT Jungle will never look the same again...</p>
                             </div>
@@ -78,7 +80,7 @@ class Home extends React.Component{
                     <section id="theStory" className="story">
                         <div className="inner story__inner">
                             <h2 className="section-title" data-aos="fade-out-custom" data-aos-easing="new-easing">The Story</h2>
-                            <p>In a world not so far away the council of Elder Meerkats have declared enough is enough. Too long have they stood aside while the jungle has been overrun with Apes, Lions, Toads &amp; Cats! It is time for the Mighty Meerkats to set order and ensure the jungle returns back into balance. The Mighty Meerkat army has assembled with 10,000 strong warriors. <strong>The jungle is about to change forever!</strong></p>
+                            <p>In a world not so far away the council of Elder Meerkats have declared enough is enough. Too long have they stood aside while the jungle has been overrun with Apes, Lions, Toads & Cats! It is time for the Mighty Meerkats to set order and ensure the jungle returns back into balance. The Mighty Meerkat army has assembled with 10,000 strong warriors. <strong>The jungle is about to change forever!</strong></p>
                         </div>
                     </section>
                     <section id="warChest" className="war-chest">
@@ -109,9 +111,9 @@ class Home extends React.Component{
                                     <ul>
                                         <li>Buy a Genesis Kong during mint!</li>
                                         <li>Sell out of primary collection.</li>
-                                        <li>Begin blue-chip purchase war path - Genesis Kong, CryptoPunk, Fidenza, Cool Cats &amp; many more as voted by the DAO.</li>
-                                        <li>Rally the Meerkat army - purchase large community projects voted on by the Meerkat Community.</li>
-                                        <li>Fund &amp; Implement staking with $GRUBS ecosystem. </li>
+                                        <li>Begin blue chip purchase war path - CryptoPunk, Fidenza, Cool Cats & many more as voted by the DAO.</li>
+                                        <li>Rally the Meerkat Army - purchase large community projects voted on by the Meerkat Community. (non-blue-chips)</li>
+                                        <li>Implement staking with $GRUBS ecosystem. </li>
                                     </ul>
                                 </div>
                                 <div className="stage stage2">
@@ -129,8 +131,15 @@ class Home extends React.Component{
                                 </div>
                                 <div className="stage stage3">
                                     <h3 className="stage__title aos-init" data-aos="fade-out-custom" data-aos-easing="new-easing">
-                                        Stage 3 coming soon
+                                        Stage 3
                                     </h3>
+				    <ul>
+				    	<li>Hosting the first annual"Crypto Jungle Gala" which will be a cross project event featuring new NFT projects, special guest speakers & more! How to access this event? $GRUBS = your ticket in.</li>
+					<li>VX avatars for Mighty Meerkats.</li>
+					<li>Sandbox Purchase.</li>
+					<li>Meerkat Manor is created with Metaverse ecosystem.</li>
+					<li>Treasure hunt launched.</li>
+					<li>Next stages to be announced.</li>
                                 </div>
                             </div>
                         </div>
@@ -144,7 +153,7 @@ class Home extends React.Component{
                                         <h3 className="team-member__title">Founder</h3>
                                         <img src="/images/founder.png" alt="founder image"/>
                                         <a href="#" className="team-member__url">@NFTEINSTEIN</a>
-                                        <p>Hi everyone! I am the proud founder of Mighty Meerkats! You may know me as NFTEINSTEIN on Twitter or Mr Pickle from discord. The first question I often get asked is why do this project? My response is simple, why not! I have never in my life felt the power of community as strong as I have in the NFT space. What is happening in this space will go down in history as one of the biggest cultural movements. It would be my privilege to build something that gives back to the community that has given me so much. </p>
+                                        <p><br/><br/>Hi everyone! I am the proud founder of Mighty Meerkats! You may know me as NFTEINSTEIN on Twitter or Mr Pickle from discord. The first question I often get asked is why do this project? My response is simple, why not! I have never in my life felt the power of community as strong as I have in the NFT space. What is happening in this space will go down in history as one of the biggest cultural movements. It would be my privilege to build something that gives back to the community that has given me so much. </p>
                                         <p>Some background on me:</p>
                                         <ul>
     <li>I live in Sydney, Australia - Aussie! Aussie! Aussie! </li>
@@ -161,7 +170,7 @@ class Home extends React.Component{
                                         <h3 className="team-member__title">Developer</h3>
                                         <img src="../images/developer.png" alt="Developer image" />
                                         <a href="#" className="team-member__url">THE WIZARD</a>
-                                        <p>A veteran developer! What the wizard can do with code is truly magical. The Wizard has a Masters of Computer Science and 4 years of experience in Solidity. The Wizard works professionally in DeFi where staking contracts holding millions of dollars have been deployed.</p>
+                                        <p><br/><br/>A veteran developer! What the wizard can do with code is truly magical. The Wizard has a Masters of Computer Science and 4 years of experience in Solidity. The Wizard works professionally in DeFi where staking contracts holding millions of dollars have been deployed.</p>
                                     </div>
                                 </div>
                             </div>
@@ -171,7 +180,7 @@ class Home extends React.Component{
                                         <h3 className="team-member__title">The Artist</h3>
                                         <img src="/images/artist.png" alt="Artist image"/>
                                         <a href="#" className="team-member__url">Leonardo da Meerkat</a>
-                                        <p>A veteran developer! What the wizard can do with code is truly magical. The Wizard has a Masters of Computer Science and 4 years of experience in Solidity. The Wizard works professionally in DeFi where staking contracts holding millions of dollars have been deployed.</p>
+                                        <p><br/><br/>Our artist and their team have extensive experience is designing quality projects that have succeeded in the NFT space. Our artist has done an amazing job with our artwork designing a truly unique collection that proudly stands out from the crowd.</p>
                                     </div>
                                 </div>
                                 <div className="team-member">
@@ -179,7 +188,7 @@ class Home extends React.Component{
                                         <h3 className="team-member__title">Head Mod</h3>
                                         <img src="/images/head-mod.png" alt="Head Mod image" />
                                         <a href="#" className="team-member__url">BZ#5932</a>
-                                        <p>The personification of a top Aussie bloke! BZ has meerkat blood running through his veins! If you ever bump into him on discord ask him if he wants to hear a joke.</p>
+                                        <p><br/><br/>The personification of a top Aussie bloke! BZ has meerkat blood running through his veins! If you ever bump into him on discord ask him if he wants to hear a joke.</p>
                                     </div>
                                 </div>
                             </div>
@@ -195,11 +204,13 @@ class Home extends React.Component{
                                 <p>Minting is the process in which you can 'mint' any new NFT collection for the first time. This essentially means you will be the first recorded person on the blockchain to own that specific NFT.</p>
                                 <p>The action itself is a simple process. You must have the right amount of ETH in your wallet to cover the mint fee and 'gas fees'. You can mint directly from this website when the project has launched or send the correct amount of ETH to the NFT's “Smart Contract”. The Mighty Meerkat's smart contract is limited to 10,000 Meerkats!</p>
                             </div>
-                            <div className="faq">
-                                <h3 className="faq__title">Can I sell my Mighty Meerkat NFT?</h3>
-                                <p>Of course! Your NFT can be traded freely if you are the owner and only incurs Ethereum transaction fees (gas fees). However, the most common way to sell your NFT is through trusted marketplaces, such as OpenSea. OpenSea is the largest and most trusted marketplace in the NFT world! Please keep in mind trading on OpenSea involves additional fees for the seller.</p>
-                            </div>
-                            <div className="faq">
+			    <div className="faq">
+                                <h3 className="faq__title">How to mint a Mighty Meerkat NFT?</h3>
+                                <p>Anyone holding an early access pass will be able to mint up to 10 Meerkats at .1 each on Sunday 21/11/21 at 1pm UTC, they will have up until 1am UTC (12 hours) to mint.<u> Please use your one time access code that you will receive to access the website!</u> Then the collection will be available in a public sale at 2am UTC.</p>
+                            	<p>Your NFT can then be traded freely if you are the owner and only incurs Ethereum transaction fees (gas fees). However, the most common way to sell your NFT is through trusted marketplaces, such as OpenSea. OpenSea is the largest and most trusted marketplace in the NFT world! Please keep in mind trading on OpenSea involves additional fees for the seller.</p>
+			    </div>
+                          
+                           <div className="faq">
                                 <h3 className="faq__title">If I have missed the mint how can I purchase?</h3>
                                 <p>Please visit the OpenSea link that will be provided on this website to access the collection on the OpenSea marketplace. Once in OpenSea you can buy or sell NFTs from this collection.</p>
                             </div>
@@ -213,7 +224,7 @@ class Home extends React.Component{
                             </div>
                             <div className="faq-logo">
                                 <img src="/images/rgtrewgt.png" alt="Site Logo" />
-                                <a href="#" class="button button-primary">Connect Wallet</a>
+                                
                             </div>
                         
 
@@ -226,8 +237,7 @@ class Home extends React.Component{
                         <p class="disclamier">DISCLAIMER:</p>
                                 <p class="footertext">
                                     Mighty Meerkats and the utility token $GRUBS is not an investment and has no economic value. Mighty Meerkat NFTs are exclusively and limited to being Non-Fungible Tokens for users to collect. There is no guarantee or promise that Mighty Meerkat NFTs hold any monetary value. Mighty Meerkats NFT does NOT distribute any form of royalty or dividend to its holders. Mighty Meerkats hereby grants you a worldwide, non-exclusive, personal, limited license, solely with respect to any Mighty Meerkat NFT(s) that you Own, to display the Artwork associated with such Mighty Meerkat NFT(s), privately or publicly, solely for personal, non-commercial purposes, including on social media platforms, digital galleries, or otherwise on the Internet or in association with your offer to sell or trade your Mighty Meerkat NFT(s). This license does not grant you any rights in or to the Artwork separate from the associated Mighty Meerkats NFT(s), only limited personal non-commercial use and resale rights in the NFT are granted and you have no right to license, commercially exploit, reproduce, distribute, prepare derivative works, or publicly perform. All copyright and other rights are reserved and not granted. You agree to waive any class action status and any legal dispute around the Mighty Meerkats NFT. You agree not to hold Mighty Meerkats NFT liable for any losses; including but not limited to any gas fees for failed transactions or any excessive gas fees during minting. You agree that Mighty Meerkats NFT will not be liable for any inability for you to access the Artwork for any reason, including as a result of any downtime, failure, obsolescence, removal, termination, or other disruption relating to (a) the servers upon which the Artwork is stored; (b) any Third-Party Vendor; or (c) any other NFT platform. You agree that you are over 18 years of age or the legal age required within your local jurisdiction. Your rights and remedies in the event of any legal action against Mighty Meerkats NFT or its creators are strictly limited to the right, if any, to recover damages in an action at law, and you acknowledge that your remedy of money damages is adequate. You will not be entitled by reason of any such breach, and you will not seek, any equitable relief, whether injunctive or otherwise. In the event of any legal dispute arising to Mighty Meerkats NFT you agree to only bring the case to a binding arbitration. You agree to be bound solely by the jurisdiction of the state of New South Wales, Australia. You agree that any legal proceedings you initiate can only be brought forward in  the jurisdiction of the state of New South Wales, Australia.
-                                </p>
-
+					</p>
                         </div>
                         <div class="row">
                             <div></div>
