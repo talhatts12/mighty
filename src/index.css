@@ -1075,3 +1075,7 @@ button{
   width: 30%;
   margin: 0 auto;
 }
+
+.team-member__inner p, .team-member__inner ul {
+  color: white;
+}
